@@ -1,0 +1,93 @@
+body{
+	font-family: monospace;
+	border: 5px solid#555;
+	background-color: lightgrey;
+	opacity: 0,5;
+}
+
+img{width: 210px;
+height: 220px;
+border-radius: 50%;
+border: 5px solid #555;
+}
+
+header{color: royalblue;
+	font-size: xx-large;
+	text-align: center;
+}
+
+h2 {color: darkblue;
+	text-align: center;
+}
+h2+p {
+	text-align: center;
+}
+
+h3{ color: royalblue;
+}
+
+li{ color: black;
+	text-align: justify-all;
+	font-size: medium;
+}	
+
+a{font-family: 'Roboto';
+	font-weight: 600;
+	font-size: 24px;
+	background-color: lightblue;
+	opacity: 0,5;
+}
+a:hover{
+	color: black;
+}
+
+.cv {
+  width: 1300px; /* set the width of your container */
+  margin: 20px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+}
+
+.apropos{
+	background-color: lightblue;
+	border-radius: 4px;
+	box-shadow: 0px 5px 20px #999;
+	padding: 20px;
+	opacity: 0.75;
+	margin: 15px;
+}
+
+.exp{
+	background-color: lightblue;
+	border-radius: 4px;
+	box-shadow: 0px 5px 20px #999;
+	padding: 20px;
+	opacity: 0.75;
+	margin: 15px;
+}
+
+
+.formations{
+	background-color: lightblue;
+	border-radius: 4px;
+	box-shadow: 0px 5px 20px #999;
+	padding: 20px;
+	opacity: 0.75;
+	margin: 15px;
+}
+.autres{
+	background-color: lightblue;
+	border-radius: 4px;
+	box-shadow: 0px 5px 20px #999;
+	padding: 20px;
+	opacity: 0.75;
+	margin: 15px;
+}
+.interets{
+	background-color: lightblue;
+	border-radius: 4px;
+	box-shadow: 0px 5px 20px #999;
+	padding: 20px;
+	opacity: 0.75;
+	margin: 15px;
+}
+
+
